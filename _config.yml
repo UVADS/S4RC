@@ -8,6 +8,12 @@ url: "https://uvads.github.io"
 markdown: kramdown
 exclude: [optional, vendor]
 
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # Ed theme settings
 # Using remote theme for GitHub Pages
 remote_theme: minicomp/ed
