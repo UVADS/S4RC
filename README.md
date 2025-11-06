@@ -27,11 +27,14 @@ To get involved, please reach out via email: **s4rc@virginia.edu**.
 ## Inaugural Meeting
 If you'd like to learn more, join us for our inaugural meeting!
 
-**When:** 
-Nov 14, 2025, at 10:30-12
+###When:
+**Nov 14, 2025, at 10:30-12**
 
-**Where:** 
-School of Data Science Bldg, Room 101 (aka the SDS Board Room)
-1919 Ivy Rd
-Charlottesville, VA 22903
-University of Virginia
+### Where:
+**School of Data Science Bldg, Room 101 (aka the SDS Board Room)**
+
+**1919 Ivy Rd**
+
+**Charlottesville, VA 22903**
+
+**University of Virginia**
