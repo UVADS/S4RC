@@ -27,7 +27,7 @@ To get involved, please reach out via email: **s4rc@virginia.edu**.
 ## Inaugural Meeting
 If you'd like to learn more, join us for our inaugural meeting!
 
-###When:
+### When:
 **Nov 14, 2025, at 10:30-12**
 
 ### Where:
