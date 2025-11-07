@@ -26,7 +26,7 @@ We welcome researchers, developers, and practitioners interested in:
 - Scientific software security
 - Open science practices
 
-If you're interested you can subscribe to out listserv **s4rc@virginia.edu** to stay updated on our activities and events.
+If you're interested you can subscribe to our listserv **s4rc@virginia.edu** to stay updated on our activities and events.
 
 ### Inaugural Meeting
 
