@@ -1,0 +1,36 @@
+# Site settings
+title: S4RC
+description: "Research Interest Group: Sustainable & Secure Scientific Software & Reproducible Computing"
+baseurl: "/S4RC"
+url: "https://uvads.github.io"
+
+# Build settings
+markdown: kramdown
+exclude: [optional, vendor]
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Ed theme settings
+# Using remote theme for GitHub Pages
+remote_theme: minicomp/ed
+
+# Permalink structure
+permalink: pretty
+
+# Jekyll collections for Ed theme
+collections:
+  texts:
+    output: true
+
+# Default settings
+defaults:
+  - scope:
+      path: ""
+      type: "texts"
+    values:
+      layout: "narrative"
+      author: "S4RC"
