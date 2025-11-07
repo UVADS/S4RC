@@ -26,6 +26,23 @@ We welcome researchers, developers, and practitioners interested in:
 - Scientific software security
 - Open science practices
 
+If you're interested you can rech out to and subscribe to **s4rc@virginia.edu** to stay updated on our activities and events.
+
+### Inaugural Meeting
+
+If you'd like to learn more, join us for our inaugural meeting!
+
+**When:**
+
+Nov 14, 2025, at 10:30-12
+
+**Where:**
+
+School of Data Science Bldg, Room 101 (aka the SDS Board Room)
+1919 Ivy Rd
+Charlottesville, VA 22903
+University of Virginia
+
 ---
 
 For more information or to get involved, please visit our [texts collection]({{ site.baseurl }}/texts/).
