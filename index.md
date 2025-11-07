@@ -26,22 +26,29 @@ We welcome researchers, developers, and practitioners interested in:
 - Scientific software security
 - Open science practices
 
-If you're interested you can rech out to and subscribe to **s4rc@virginia.edu** to stay updated on our activities and events.
+If you're interested you can subscribe to out listserv **s4rc@virginia.edu** to stay updated on our activities and events.
 
 ### Inaugural Meeting
 
-If you'd like to learn more, join us for our inaugural meeting!
+If you'd like to learn more, join us for our inaugural meeting! 
+
+This event will include three hands-on demonstrations of containers in the data science lifecycle: (a) in development and testing; (b) in software packaging and shipping; and (c) running in production systems such as HPC and Kubernetes.
+
+Bring your laptop and join us next Friday!
 
 **When:**
 
-Nov 14, 2025, at 10:30-12
+**Nov 14, 2025, at 10:30-12**
 
 **Where:**
 
-School of Data Science Bldg, Room 101 (aka the SDS Board Room)
-1919 Ivy Rd
-Charlottesville, VA 22903
-University of Virginia
+**School of Data Science Bldg, Room 101 (aka the SDS Board Room)**
+
+**1919 Ivy Rd**
+
+**Charlottesville, VA 22903**
+
+**University of Virginia**
 
 ---
 
