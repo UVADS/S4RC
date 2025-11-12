@@ -16,6 +16,12 @@ To run the site locally:
 3. Run `bundle exec jekyll serve`
 4. Open http://localhost:4000/S4RC/ in your browser
 
+Alternatively run the site locally via Docker image
+
+1. Change into the top level directory of the cloned repo
+2. Run `docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll jekyll serve`
+3. Open http://localhost:4000/S4RC/ in your browser
+
 ## Structure
 
 - `_config.yml` - Site configuration

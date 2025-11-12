@@ -1,0 +1,7 @@
+{% if page.toc %}
+<nav class="toc">
+  <h3>Table of Contents</h3>
+  {% include toc.html html=content ordered=true %}
+</nav>
+{% endif %}
+

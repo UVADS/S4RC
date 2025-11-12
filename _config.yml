@@ -6,6 +6,9 @@ url: "https://uvads.github.io"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  toc_levels: 2..4
+  auto_ids: true
 exclude: [optional, vendor]
 
 # Plugins
@@ -25,6 +28,8 @@ permalink: pretty
 collections:
   texts:
     output: true
+  resources:
+    output: true
 
 # Default settings
 defaults:
@@ -34,3 +39,8 @@ defaults:
     values:
       layout: "narrative"
       author: "S4RC"
+  - scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "page"
