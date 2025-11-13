@@ -54,7 +54,7 @@ University of Virginia
 
 **Session 1** - Containerized Tools alongside Development
 
-    - [**Apache Kafka**](https://github.com/UVADS/learn-kafka)
+- [**Apache Kafka**](https://github.com/UVADS/learn-kafka)
 
 **Session 2**
 
