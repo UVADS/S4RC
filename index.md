@@ -38,7 +38,7 @@ Bring your laptop and join us next Friday!
 
 **When:**
 
-Nov 14, 2025, at 10:30-12
+Nov 14, 2025, at 10:30am-12:00pm
 
 **Where:**
 
@@ -52,3 +52,10 @@ University of Virginia
 
 ---
 
+**Session 1** - Containerized Tools alongside Development
+
+    - [**Apache Kafka**](https://github.com/UVADS/learn-kafka)
+
+**Session 2**
+
+**Session 3**
