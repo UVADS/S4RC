@@ -58,4 +58,6 @@ University of Virginia
 
 **Session 2**
 
-**Session 3**
+**Session 3** - Containers in HPC Environments
+
+- [**JupyterLab & Batch Computing**](https://github.com/UVADS/jlab-hpc-containers)
