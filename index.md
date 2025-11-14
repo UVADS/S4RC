@@ -52,7 +52,7 @@ University of Virginia
 
 - [**Apache Kafka**](https://github.com/UVADS/learn-kafka)
 
-**Session 2**
+**Session 2** - From A to C(ontainerization): How to Plan, Build, and Deploy Container Images
 
 **Session 3** - Containers in HPC Environments
 
