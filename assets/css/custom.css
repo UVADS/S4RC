@@ -1,0 +1,99 @@
+/* Custom alert and callout styles for S4RC site */
+
+.alert {
+  padding: 1em;
+  margin: 1.5em 0;
+  border-left: 4px solid;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+}
+
+.alert-info {
+  border-left-color: #0c5460;
+  background-color: #d1ecf1;
+  color: #0c5460;
+}
+
+.alert-warning {
+  border-left-color: #856404;
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.alert-success {
+  border-left-color: #155724;
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.alert-danger {
+  border-left-color: #721c24;
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.callout {
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-left: 4px solid #6c757d;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
+
+.callout-note {
+  border-left-color: #0c5460;
+  background-color: #e7f3f5;
+}
+
+.callout-tip {
+  border-left-color: #28a745;
+  background-color: #e7f5e9;
+}
+
+.callout-warning {
+  border-left-color: #ffc107;
+  background-color: #fffbf0;
+}
+
+.callout-important {
+  border-left-color: #dc3545;
+  background-color: #ffeaea;
+}
+
+.callout-title {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 0;
+}
+
+/* Support for Kramdown Block IALs */
+.note,
+.tip,
+.warning,
+.important {
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-left: 4px solid;
+  border-radius: 4px;
+}
+
+.note {
+  border-left-color: #0c5460;
+  background-color: #e7f3f5;
+}
+
+.tip {
+  border-left-color: #28a745;
+  background-color: #e7f5e9;
+}
+
+.warning {
+  border-left-color: #ffc107;
+  background-color: #fffbf0;
+}
+
+.important {
+  border-left-color: #dc3545;
+  background-color: #ffeaea;
+}
+
