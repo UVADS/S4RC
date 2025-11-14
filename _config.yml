@@ -1,6 +1,6 @@
 # Site settings
 title: S4RC
-description: "Research Interest Group: Sustainable & Secure Scientific Software & Reproducible Computing"
+description: "Sustainable & Secure Scientific Software & Reproducible Computing"
 baseurl: "/S4RC"
 url: "https://uvads.github.io"
 
@@ -18,6 +18,8 @@ plugins:
 # Using remote theme for GitHub Pages
 remote_theme: minicomp/ed
 
+color-scheme: theme-base-magenta
+
 # Permalink structure
 permalink: pretty
 
@@ -34,3 +36,5 @@ defaults:
     values:
       layout: "narrative"
       author: "S4RC"
+
+

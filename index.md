@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Home
+title:  S4RC: Sustainable & Secure Scientific Software & Reproducible Computing
 ---
 
-# S4RC
-
-## Research Interest Group: Sustainable & Secure Scientific Software & Reproducible Computing
-
-Welcome to S4RC - a research interest group dedicated to advancing the principles and practices of sustainable, secure scientific software and reproducible computing.
+Welcome to S4RC - **Sustainable & Secure Scientific Software & Reproducible Computing** - a research interest group dedicated to advancing the principles and practices of sustainable, secure scientific software and reproducible computing.
 
 ### Our Mission
 
